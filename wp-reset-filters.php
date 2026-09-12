@@ -10,6 +10,7 @@
  * Requires at least: 4.3
  * Requires PHP: 7.4
  * Tested up to: 7.1
+ * Text Domain:  wp-reset-filters
  * License:     GPLv2 or later
  */
 

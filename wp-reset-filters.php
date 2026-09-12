@@ -7,6 +7,9 @@
  * Author URI:  http://jjj.me
  * Version:     0.1.0
  * Description: Adds a "Reset" button to filters
+ * Requires at least: 4.3
+ * Requires PHP: 7.4
+ * Tested up to: 7.1
  * License:     GPLv2 or later
  */
 

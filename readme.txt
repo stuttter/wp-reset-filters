@@ -7,6 +7,8 @@ Tested up to: 7.1
 Stable tag: 0.2.0
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9Q4F4EL5YJ62J
 
+Add a Reset button to WordPress list-table filters.
+
 == Description ==
 
 WP Reset Filters adds a "Reset" button to filters

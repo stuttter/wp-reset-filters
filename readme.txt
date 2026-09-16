@@ -4,7 +4,7 @@ Tags: jquery, select, chosen
 Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 7.1
-Stable tag: 0.2.0
+Stable tag: 0.2.1
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9Q4F4EL5YJ62J
 
 Add a Reset button to WordPress list-table filters.
@@ -49,6 +49,9 @@ The WordPress support forums: https://wordpress.org/support/plugin/wp-reset-filt
 http://github.com/stuttter/wp-reset-filters/
 
 == Changelog ==
+
+= 0.2.1 =
+* Require WordPress 6.4 or newer
 
 = 0.2.0 =
 * Require PHP 7.4 and declare current WordPress compatibility

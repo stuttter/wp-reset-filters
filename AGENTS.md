@@ -2,7 +2,7 @@
 
 ## Compatibility
 
-- Preserve PHP 7.4 and WordPress 4.3 compatibility unless a dedicated pull
+- Preserve PHP 7.4 and WordPress 6.4 compatibility unless a dedicated pull
   request explicitly changes the published minimums.
 - Preserve the public functions, hook registration, script handles, localized
   object name, localized keys, and asset URLs unless a compatibility plan is

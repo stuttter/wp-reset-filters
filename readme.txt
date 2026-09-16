@@ -1,7 +1,7 @@
 === WP Reset Filters ===
 Contributors: johnjamesjacoby, stuttter
 Tags: jquery, select, chosen
-Requires at least: 4.3
+Requires at least: 6.4
 Requires PHP: 7.4
 Tested up to: 7.1
 Stable tag: 0.2.0

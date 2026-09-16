@@ -5,7 +5,7 @@ Describe the observable change and why it belongs in WP Reset Filters.
 ## Risk and compatibility
 
 - [ ] Existing administration-screen and custom-post-type behavior remains compatible.
-- [ ] PHP and WordPress compatibility metadata remains accurate.
+- [ ] PHP 7.4 and WordPress 6.4 compatibility are preserved.
 - [ ] Filter detection, reset URLs, selectors, and JavaScript fallback behavior are described where applicable.
 - [ ] Privacy, dependency, automation, and release implications are identified.
 

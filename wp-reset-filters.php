@@ -7,7 +7,7 @@
  * Author URI:  http://jjj.me
  * Version:     0.2.0
  * Description: Adds a "Reset" button to filters
- * Requires at least: 4.3
+ * Requires at least: 6.4
  * Requires PHP: 7.4
  * Tested up to: 7.1
  * Text Domain:  wp-reset-filters

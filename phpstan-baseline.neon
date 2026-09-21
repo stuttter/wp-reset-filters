@@ -1,0 +1,13 @@
+parameters:
+    ignoreErrors:
+        -
+            message: '#^Parameter \#4 \$ver of function wp_enqueue_style expects bool\|string\|null, int given\.$#'
+            identifier: argument.type
+            count: 1
+            path: wp-reset-filters.php
+
+        -
+            message: '#^Parameter \#4 \$ver of function wp_enqueue_script expects bool\|string\|null, int given\.$#'
+            identifier: argument.type
+            count: 1
+            path: wp-reset-filters.php

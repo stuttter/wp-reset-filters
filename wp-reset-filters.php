@@ -5,7 +5,7 @@
  * Plugin URI:  http://wordpress.org/plugins/wp-reset-filters/
  * Author:      John James Jacoby
  * Author URI:  http://jjj.me
- * Version:     0.2.1
+ * Version:     0.2.2
  * Description: Adds a "Reset" button to filters
  * Requires at least: 6.4
  * Requires PHP: 7.4
@@ -58,5 +58,5 @@ function wp_reset_filters_get_plugin_url() {
  * @return int
  */
 function wp_reset_filters_get_asset_version() {
-	return 201511170001;
+	return 202610100001;
 }

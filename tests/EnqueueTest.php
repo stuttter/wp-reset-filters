@@ -23,7 +23,7 @@ final class EnqueueTest extends TestCase {
 				'wp-reset-filters',
 				'https://example.test/wp-content/plugins/wp-reset-filters/assets/css/wp-reset-filters.css',
 				array(),
-				201511170001,
+				202610100001,
 			),
 			$GLOBALS['wprf_test']['calls']['wp_enqueue_style'][0]
 		);
@@ -32,7 +32,7 @@ final class EnqueueTest extends TestCase {
 				'wp-reset-filters',
 				'https://example.test/wp-content/plugins/wp-reset-filters/assets/js/wp-reset-filters.js',
 				array( 'jquery' ),
-				201511170001,
+				202610100001,
 				true,
 			),
 			$GLOBALS['wprf_test']['calls']['wp_enqueue_script'][0]

@@ -18,6 +18,8 @@
  * Enqueue reset_filters
  *
  * @since 0.1.0
+ *
+ * @return void
  */
 function _wp_reset_filters() {
 

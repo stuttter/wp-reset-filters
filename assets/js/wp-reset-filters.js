@@ -5,7 +5,7 @@ jQuery( document ).ready( function ( $ ) {
 	$( '#post-query-submit' )
 		.addClass( 'button-primary' )
 		.after(
-			'<button class="button" id="wp-reset-filters" ' + WP_Reset_Filters.button_disabled + '>' + WP_Reset_Filters.button_text + '</button>'
+			'<button class="button button-compact" id="wp-reset-filters" ' + WP_Reset_Filters.button_disabled + '>' + WP_Reset_Filters.button_text + '</button>'
 		);
 
 	// Reload on "Reset" click

@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+## 0.2.2 (2026-10-10)
+
+* Match the Reset button size and alignment to compact WordPress list-table controls
+
 ## 0.2.1 (2026-09-16)
 
 * Require WordPress 6.4 or newer
